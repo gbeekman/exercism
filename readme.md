@@ -1,0 +1,1 @@
+These are solutions for Python exercises from the website exercism.io
